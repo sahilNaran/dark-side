@@ -17,6 +17,7 @@
         <item name="colorOnSurface">@color/colorOnSurface</item>
         <item name="android:colorBackground">@color/colorBackground</item>
         <item name="colorOnBackground">@color/colorOnBackground</item>
+        <item name="android:forceDarkAllowed">true</item>
     </style>
 
     <style name="AppTheme.NoActionBar">
